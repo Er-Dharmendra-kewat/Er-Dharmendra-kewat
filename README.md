@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://dharmendrakewat.netlify.app/](https://dharmendrakewat.netlify.app/)
-
 - 💬 Ask me about **Php,Laravel,Bootstrap**
 
 - 📫 How to reach me **dharmendra1633.be24@chitkarauniversity.edu.in**
@@ -21,7 +19,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dharmendra-kewat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharmendra-kewat" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/dharmendra.kewat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dharmendra.kewat/" height="30" width="40" /></a>
+<a href="https://instagram.com/dk-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk-junior" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@dharmendrakewat123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dharmendrakewat123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/codewithdharmendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/codewithdharmendra/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/dharmendrajbf0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dharmendrajbf0/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
